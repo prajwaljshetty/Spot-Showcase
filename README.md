@@ -15,17 +15,17 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="onboarding.png" width="100%">
+      <img src="onboarding.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Onboarding</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="authoptions.png" width="100%">
+      <img src="authoptions.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Authentication</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="createaccount.png" width="100%">
+      <img src="createaccount.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Create Account</sub>
     </td>
@@ -33,7 +33,7 @@
 
   <tr>
     <td width="33.33%" align="center">
-      <img src="emailverification.png" width="100%">
+      <img src="emailverification.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Verification</sub>
     </td>
@@ -47,17 +47,17 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="personalizationintro.png" width="100%">
+      <img src="personalizationintro.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Personalization</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="dobpicker.png" width="100%">
+      <img src="dobpicker.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Date of Birth</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="genderpicker.png" width="100%">
+      <img src="genderpicker.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Gender</sub>
     </td>
@@ -65,7 +65,7 @@
 
   <tr>
     <td width="33.33%" align="center">
-      <img src="preferences.png" width="100%">
+      <img src="preferences.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Preferences</sub>
     </td>
@@ -79,17 +79,17 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="homepage.png" width="100%">
+      <img src="homepage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Home</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="searchinput.png" width="100%">
+      <img src="searchinput.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Search</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="spottingstate.png" width="100%">
+      <img src="spottingstate.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Spotting</sub>
     </td>
@@ -97,7 +97,7 @@
 
   <tr>
     <td width="33.33%" align="center">
-      <img src="searchresult.png" width="100%">
+      <img src="searchresult.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Results</sub>
     </td>
@@ -111,17 +111,17 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="productdetailsheet.png" width="100%">
+      <img src="productdetailsheet.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Product</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="reservationcheckoutsheet.png" width="100%">
+      <img src="reservationcheckoutsheet.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Checkout</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="reservationconfirmationsheet.png" width="100%">
+      <img src="reservationconfirmationsheet.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Confirmation</sub>
     </td>
@@ -129,7 +129,7 @@
 
   <tr>
     <td width="33.33%" align="center">
-      <img src="notificationpage.png" width="100%">
+      <img src="notificationpage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Notification</sub>
     </td>
@@ -143,17 +143,17 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="mapexplorepage.png" width="100%">
+      <img src="mapexplorepage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Map</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="shopmapnaviagtion.png" width="100%">
+      <img src="shopmapnaviagtion.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Navigation</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="shopprofilepage.png" width="100%">
+      <img src="shopprofilepage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Shop</sub>
     </td>
@@ -161,7 +161,7 @@
 
   <tr>
     <td width="33.33%" align="center">
-      <img src="cartpage.png" width="100%">
+      <img src="cartpage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Cart</sub>
     </td>
@@ -175,12 +175,12 @@
 <table>
   <tr>
     <td width="33.33%" align="center">
-      <img src="profilepreview.png" width="100%">
+      <img src="profilepreview.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Profile Preview</sub>
     </td>
     <td width="33.33%" align="center">
-      <img src="profilepage.png" width="100%">
+      <img src="profilepage.png" width="100%" style="border-radius:16px;">
       <br>
       <sub>Profile</sub>
     </td>
