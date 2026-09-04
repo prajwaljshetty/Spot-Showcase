@@ -1,129 +1,189 @@
-# Spot
+<h1 align="center">Spot</h1>
 
-A visual showcase of Spot.
+<p align="center">
+  <strong>A visual showcase of Spot.</strong>
+</p>
+
+<p align="center">
+  <font color="#FF791B">━━━━</font>
+</p>
 
 ## App Experience
 
 ### Onboarding
 
-<p align="center">
-  <img src="onboarding.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="authoptions.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="createaccount.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="emailverification.png" width="150" style="border-radius: 22px;">
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="onboarding.png" width="100%">
+      <br>
+      <sub>Onboarding</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="authoptions.png" width="100%">
+      <br>
+      <sub>Authentication</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="createaccount.png" width="100%">
+      <br>
+      <sub>Create Account</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <sub>Onboarding</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Authentication</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Create Account</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Verification</sub>
-</p>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="emailverification.png" width="100%">
+      <br>
+      <sub>Verification</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
 
 ### Personalization
 
-<p align="center">
-  <img src="personalizationintro.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="dobpicker.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="genderpicker.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="preferences.png" width="150" style="border-radius: 22px;">
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="personalizationintro.png" width="100%">
+      <br>
+      <sub>Personalization</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="dobpicker.png" width="100%">
+      <br>
+      <sub>Date of Birth</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="genderpicker.png" width="100%">
+      <br>
+      <sub>Gender</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <sub>Personalization</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Date of Birth</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Gender</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Preferences</sub>
-</p>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="preferences.png" width="100%">
+      <br>
+      <sub>Preferences</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
 
 ### Discovery
 
-<p align="center">
-  <img src="homepage.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="searchinput.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="spottingstate.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="searchresult.png" width="150" style="border-radius: 22px;">
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="homepage.png" width="100%">
+      <br>
+      <sub>Home</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="searchinput.png" width="100%">
+      <br>
+      <sub>Search</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="spottingstate.png" width="100%">
+      <br>
+      <sub>Spotting</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <sub>Home</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Search</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Spotting</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Results</sub>
-</p>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="searchresult.png" width="100%">
+      <br>
+      <sub>Results</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
 
 ### Reservations
 
-<p align="center">
-  <img src="productdetailsheet.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="reservationcheckoutsheet.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="reservationconfirmationsheet.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="notificationpage.png" width="150" style="border-radius: 22px;">
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="productdetailsheet.png" width="100%">
+      <br>
+      <sub>Product</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="reservationcheckoutsheet.png" width="100%">
+      <br>
+      <sub>Checkout</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="reservationconfirmationsheet.png" width="100%">
+      <br>
+      <sub>Confirmation</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <sub>Product</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Checkout</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Confirmation</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Notification</sub>
-</p>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="notificationpage.png" width="100%">
+      <br>
+      <sub>Notification</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
 
 ### Explore
 
-<p align="center">
-  <img src="mapexplorepage.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="shopmapnaviagtion.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="shopprofilepage.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="cartpage.png" width="150" style="border-radius: 22px;">
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="mapexplorepage.png" width="100%">
+      <br>
+      <sub>Map</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="shopmapnaviagtion.png" width="100%">
+      <br>
+      <sub>Navigation</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="shopprofilepage.png" width="100%">
+      <br>
+      <sub>Shop</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <sub>Map</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Navigation</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Shop</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Cart</sub>
-</p>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="cartpage.png" width="100%">
+      <br>
+      <sub>Cart</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
 
 ### Profile
 
-<p align="center">
-  <img src="profilepreview.png" width="150" style="border-radius: 22px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="profilepage.png" width="150" style="border-radius: 22px;">
-</p>
-
-<p align="center">
-  <sub>Profile Preview</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Profile</sub>
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="profilepreview.png" width="100%">
+      <br>
+      <sub>Profile Preview</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="profilepage.png" width="100%">
+      <br>
+      <sub>Profile</sub>
+    </td>
+    <td width="33.33%" align="center"></td>
+  </tr>
+</table>
