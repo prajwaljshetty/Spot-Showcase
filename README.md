@@ -4,16 +4,16 @@ A visual showcase of Spot.
 
 ## Screenshots
 
-![Onboarding](onboarding.png)
+<p align="center">
+  <img src="onboarding.png" width="180">
+  <img src="homepage.png" width="180">
+  <img src="searchinput.png" width="180">
+  <img src="mapexplorepage.png" width="180">
+</p>
 
-![Home](homepage.png)
-
-![Search](searchinput.png)
-
-![Explore](mapexplorepage.png)
-
-![Product](productdetailsheet.png)
-
-![Reservation](reservationconfirmationsheet.png)
-
-![Shop](shopprofilepage.png)
+<p align="center">
+  <img src="productdetailsheet.png" width="180">
+  <img src="reservationconfirmationsheet.png" width="180">
+  <img src="shopprofilepage.png" width="180">
+  <img src="profilepage.png" width="180">
+</p>
