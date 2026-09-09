@@ -4,6 +4,10 @@
   <strong>A visual showcase of Spot.</strong>
 </p>
 
+<p>
+  <strong>the actual source code is private.</strong>
+</p>
+
 <p align="center">
   <font color="#FF791B">━━━━</font>
 </p>
